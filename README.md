@@ -1,16 +1,15 @@
-# Hi, I'm Vlad 👋
+## Hi, I'm Vlad 👋
 Now I live in Chisinau. I like coding, music, and sport.
 
 ### Get In Touch
-
-![link](https://github.com/one-way7/one-way7/assets/121254183/80789539-13ab-48be-ac54-d16cbc54181a)
-[![portfolio](https://github.com/one-way7/one-way7/assets/121254183/696ce2cb-213d-42a7-823d-29f545f85919)](https://github.com/one-way7)
+<a href="#"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<a href="mailto:vladislav.work98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ### What I Work With
 ![js-img](https://github.com/one-way7/one-way7/assets/121254183/b54379b2-90b2-4a37-a801-cfa531c55e51)
+![react-img](https://github.com/one-way7/one-way7/assets/121254183/0129a39b-fc55-4832-b821-4c46359f1558)
 ![html-img](https://github.com/one-way7/one-way7/assets/121254183/9dcabf4d-cc91-48af-a033-5aa03dc44b78)
 ![css-img](https://github.com/one-way7/one-way7/assets/121254183/93f09aa1-d724-46b3-baac-819f1e0120bc)
-![react-img](https://github.com/one-way7/one-way7/assets/121254183/0129a39b-fc55-4832-b821-4c46359f1558)
 ...and many others
 ### My Favorite Project Repos
 - [MARVEL-DB](https://github.com/one-way7/marvel-db) - Marvel Comics and Characters database.
