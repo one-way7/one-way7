@@ -2,7 +2,7 @@
 Now I live in Chisinau. I like coding, music, and sport.
 
 ### Get In Touch
-<a href="#"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<a href="https://front-dev-portfolio.netlify.app/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 <a href="mailto:vladislav.work98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ### What I Work With
