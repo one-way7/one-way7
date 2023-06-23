@@ -1,5 +1,5 @@
 ## Hi, I'm Vlad 👋
-Now I live in Chisinau. I like coding, music, and sport.
+I live in Chisinau. I like coding, music, and sport.
 
 ### Get In Touch
 <a href="https://front-dev-portfolio.netlify.app/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
