@@ -12,7 +12,8 @@ I live in Chisinau. I like coding, music, and sport.
 ![css-img](https://github.com/one-way7/one-way7/assets/121254183/93f09aa1-d724-46b3-baac-819f1e0120bc)
 ...and many others
 ### My Favorite Project Repos
-- [MARVEL-DB](https://github.com/one-way7/marvel-db) - Marvel Comics and Characters database.
-- [Forkify](https://github.com/one-way7/forkify) - Recipe application with custom recipe uploads.
+- [crwn-clothing](https://github.com/one-way7/crwn-clothing) - E-commerce clothes store 🥼👟.
+- [MARVEL-DB](https://github.com/one-way7/marvel-db) - Marvel Comics and Characters database 🎃.
+- [Forkify](https://github.com/one-way7/forkify) - Recipe application with custom recipe uploads 🥣🍴.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=one-way7&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
