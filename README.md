@@ -7,6 +7,7 @@ I live in Chisinau. I like coding, music, and sport.
 
 ### What I Work With
 ![js-img](https://github.com/one-way7/one-way7/assets/121254183/b54379b2-90b2-4a37-a801-cfa531c55e51)
+![ts-img](https://github.com/one-way7/one-way7/assets/121254183/5f2e8d44-aaed-44d1-bee5-268034e42a3c)
 ![react-img](https://github.com/one-way7/one-way7/assets/121254183/0129a39b-fc55-4832-b821-4c46359f1558)
 ![html-img](https://github.com/one-way7/one-way7/assets/121254183/9dcabf4d-cc91-48af-a033-5aa03dc44b78)
 ![css-img](https://github.com/one-way7/one-way7/assets/121254183/93f09aa1-d724-46b3-baac-819f1e0120bc)
