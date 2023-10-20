@@ -1,9 +1,5 @@
 ## Hi, I'm Vlad 👋
 
-### Get In Touch
-<a href="https://front-dev-portfolio.netlify.app/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-<a href="mailto:vladislav.work98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
 ### What I Work With
 ![js-img](https://github.com/one-way7/one-way7/assets/121254183/b54379b2-90b2-4a37-a801-cfa531c55e51)
 ![ts-img](https://github.com/one-way7/one-way7/assets/121254183/1b8a62d9-e678-4687-8567-1fc05b472721)
